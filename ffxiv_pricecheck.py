@@ -238,7 +238,7 @@ def main():
     while True:
         run_undercut(webhooks)
         print("Sleeping for 5 minutes...")
-        time.sleep(300)
+        time.sleep(20)
 
 
 if __name__ == "__main__":
